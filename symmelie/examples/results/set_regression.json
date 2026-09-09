@@ -1,7 +1,0 @@
-{
-  "seed": 0,
-  "steps": 250,
-  "initial_test_mse": 0.12057975836813198,
-  "final_test_mse": 8.988258140655044e-05,
-  "permutation_max_error": 7.216449660063518e-16
-}
