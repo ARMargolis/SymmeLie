@@ -1,0 +1,8 @@
+{
+  "seed": 0,
+  "steps": 250,
+  "initial_test_mse": 0.06898331017980326,
+  "final_test_mse": 0.0001148963331985184,
+  "equivariance_max_error": 1.1102230246251565e-16,
+  "net_force_max_error": 5.551115123125783e-17
+}

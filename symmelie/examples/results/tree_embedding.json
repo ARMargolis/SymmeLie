@@ -1,0 +1,9 @@
+{
+  "seed": 0,
+  "steps": 350,
+  "initial_reconstruction_stress": 3.1011990562027347,
+  "final_reconstruction_stress": 0.06811228104349341,
+  "lorentz_distance_max_error": 8.326672684688674e-15,
+  "manifold_max_error": 8.881784197001252e-16,
+  "max_poincare_radius": 0.6936598721946288
+}
